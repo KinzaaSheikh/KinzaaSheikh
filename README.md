@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Kinza Sheikh and I am a Junior Software Engineer with domain expertise in Java, Python, and JavaScript. 
+
 <!--
 **KinzaaSheikh/KinzaaSheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
