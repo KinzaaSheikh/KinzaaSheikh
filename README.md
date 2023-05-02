@@ -1,7 +1,7 @@
 # Hi there 👋
 
 🔭 Junior Software Engineer \
-👯 Passionate about Cloud, Frontend, & Coding \
+👯 Passionate about Cloud, Blockchain & Coding \
 💬 Looking to collaborate in open-source
 
 ## About Me 👩‍💻
