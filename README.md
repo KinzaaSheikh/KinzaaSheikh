@@ -17,7 +17,6 @@ I also have BigData experience using _[BigQuery](https//cloud.google.com/bigquer
 - Java
 - Python
 - R
-- C#
 - MySQL
 - HTML, CSS, & JavaScript
 
