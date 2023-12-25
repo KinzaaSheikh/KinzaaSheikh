@@ -24,7 +24,6 @@ I also have BigData experience using _[BigQuery](https//cloud.google.com/bigquer
 
 - Node.JS
 - React
-- Angular
 - Vue
 
 ✨ Also have containerization and serverless programming knowledge
