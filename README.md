@@ -1,20 +1,21 @@
 # Hi there 👋
 
 🔭 Junior Software Engineer \
-👯 Passionate about Cloud, Blockchain & Coding \
+👯 Passionate about Agentic AI, Blockchain & Cloud \
 💬 Looking to collaborate in open-source
 
 ## About Me 👩‍💻
 
-As a Computer Science graduate, I have operational and implementation experience of over 4 years of studying real-world problems and designing optimal solutions. I have also worked in an IoT hardware supply chain in an online e-commerce environment for over 5 years.
+As a Junior Software Engineer, I have operational and implementation experience of over 4 years of studying real-world problems and designing optimal solutions. I have also worked in an IoT hardware supply chain in an online e-commerce environment for over 5 years. I am an innovative AI and cloud-native solutions developer, with a specialized focus on building intelligent systems, AI agents, and humanoid robotics. My expertise lies in designing and deploying Generative AI, multi-agent systems, and fine-tuning Large Language Models (LLMs) using technologies like OpenAI, PyTorch, and Meta LLaMA. Additionally, I have deep experience in cloud-native platforms, including Docker, Kubernetes, and Terraform, ensuring scalable, reliable AI-powered applications.
 
-As a _**Full-Stack Web developer**_, I have experience in both frontend and backend technologies _[Django](https//www.djangoproject.com/), [Flask](https//flask.palletsprojects.com/en/latest/), [React](https//reactjs.org/), and [Angular](https//angular.io/)_. As a student whose coursework is focused majorly on _[Java](https//www.java.com/en/)_, and personal interest in _[Python](https//www.python.org/)_, I have an in-depth understanding of both languages and their applications in software development and data science domains. I have multiple certifications and projects in Machine Learning and Artificial Intelligence using _[Python](https//www.python.org/)_ libraries i.e _[pandas](https//pandas.pydata.org/)_, _[NumPy](https//numpy.org/)_, _[scikit-learn](https//scikit-learn.org/stable/)_, etc.
+I bring a comprehensive understanding of modern AI Python programming, knowledge graphs, and the design of custom AI models. My proficiency in developing AI-powered microservices, distributed systems, and cloud-native solutions has equipped me to thrive in dynamic, global tech environments. Through my hands-on experience with Azure, I’ve built and deployed AI models that automate complex business processes and create humanoid robotics solutions for real-world interaction.
 
-I also have BigData experience using _[BigQuery](https//cloud.google.com/bigquery), [IBM’s Watson](https//www.ibm.com/watson), [AWS studio](https//aws.amazon.com/amplify/studio/), and [NoSQL](https//en.wikipedia.org/wiki/NoSQL)_. Currently, I am pursuing IBM's Full Stack Software Engineer specialization and learning JavaScript in-depth with multiple frameworks and cloud deployment.
+I am passionate about harnessing the power of AI to create solutions that bridge the gap between digital and physical worlds, and I’m excited about the future of agentic AI and humanoid robotics.
+
+As a _**Full-Stack Web developer**_, I have experience in both frontend and backend technologies _[Next](https://nextjs.org/docs), [Nest](https://docs.nestjs.com), [React](https//react.dev/), and [Neo4j](https://neo4j.com/docs/)_. 
 
 ## 🌱 Tech Stack
 
-- Java
 - Python
 - R
 - MySQL
@@ -24,6 +25,9 @@ I also have BigData experience using _[BigQuery](https//cloud.google.com/bigquer
 
 - Node.JS
 - React
+- Langchain
+- Langgraph
+- Neo4j
 - Vue
 
 ✨ Also have containerization and serverless programming knowledge
