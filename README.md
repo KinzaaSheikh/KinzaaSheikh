@@ -1,36 +1,57 @@
-# Hi there 👋
+👋 Hi there, I'm Kinza Sheikh!
 
-🔭 Junior Software Engineer \
-👯 Passionate about Agentic AI, Blockchain & Cloud \
-💬 Looking to collaborate in open-source
+🔭 Junior Software Engineer | AI Enthusiast | Cloud-Native Solutions Developer
 
-## About Me 👩‍💻
+🌟 About Me
+As a Junior Software Engineer, I bring over 4 years of hands-on experience in solving real-world problems and designing optimal solutions, coupled with my experience as a Full-Stack Web Developer, with expertise in Next.js and Nest.js, building robust, scalable applications for modern web experiences.
 
-As a Junior Software Engineer, I have operational and implementation experience of over 4 years of studying real-world problems and designing optimal solutions. I have also worked in an IoT hardware supply chain in an online e-commerce environment for over 5 years. I am an innovative AI and cloud-native solutions developer, with a specialized focus on building intelligent systems, AI agents, and humanoid robotics. My expertise lies in designing and deploying Generative AI, multi-agent systems, and fine-tuning Large Language Models (LLMs) using technologies like OpenAI, PyTorch, and Meta LLaMA. Additionally, I have deep experience in cloud-native platforms, including Docker, Kubernetes, and Terraform, ensuring scalable, reliable AI-powered applications.
+I specialize in AI-driven and cloud-native solutions, focusing on Generative AI, multi-agent systems, and humanoid robotics. My expertise includes fine-tuning Large Language Models (LLMs) using technologies like OpenAI, PyTorch, and Meta LLaMA, alongside developing scalable AI-powered applications with Docker, Kubernetes, and Terraform.
 
-I bring a comprehensive understanding of modern AI Python programming, knowledge graphs, and the design of custom AI models. My proficiency in developing AI-powered microservices, distributed systems, and cloud-native solutions has equipped me to thrive in dynamic, global tech environments. Through my hands-on experience with Azure, I’ve built and deployed AI models that automate complex business processes and create humanoid robotics solutions for real-world interaction.
+With a strong grasp of modern AI Python programming, knowledge graphs, and custom AI model design, I’ve built AI-powered microservices and distributed systems deployed via platforms like Azure. My work aims to bridge the gap between the digital and physical worlds through agentic AI and humanoid robotics.
 
-I am passionate about harnessing the power of AI to create solutions that bridge the gap between digital and physical worlds, and I’m excited about the future of agentic AI and humanoid robotics.
+👯 Let's Collaborate!
+I’m always looking to collaborate on open-source projects in the fields of Agentic AI, Blockchain, and Cloud Technologies.
 
-As a _**Full-Stack Web developer**_, I have experience in both frontend and backend technologies _[Next](https://nextjs.org/docs), [Nest](https://docs.nestjs.com), [React](https//react.dev/), and [Neo4j](https://neo4j.com/docs/)_. 
+🛠️ Tech Stack
 
-## 🌱 Tech Stack
+Languages:
+Python
+R
+MySQL
+HTML, CSS, & JavaScript
+Frameworks & Libraries:
+Next.js
+Nest.js
+React.js
+Vue.js
+LangChain
+LangGraph
+Neo4j
+DevOps & Cloud:
+Docker
+Kubernetes
+Azure
+Terraform
+Tools & Concepts:
+Serverless Programming
+Containerization
+Distributed Systems
+🌱 Currently Learning
 
-- Python
-- R
-- MySQL
-- HTML, CSS, & JavaScript
+I'm currently enhancing my skills with the PIAIC Bootcamp, focusing on:
 
-## ⚡ Frameworks
+LangChain: Advanced AI agent development.
+Algorithms for LeetCode: Mastering data structures and algorithms for coding interviews.
+I’m also delving into the Fastai course by Jeremy Howard to deepen my knowledge in Deep Learning and Machine Learning.
 
-- Node.JS
-- React
-- Langchain
-- Langgraph
-- Neo4j
-- Vue
+🚀 Passion Projects
 
-✨ Also have containerization and serverless programming knowledge
+AI Agents: Creating intelligent systems that mimic human decision-making.
+Humanoid Robotics: Designing robots that interact seamlessly with real-world environments.
+Generative AI: Building and fine-tuning LLMs for real-world applications.
+🌐 Let's connect and build something amazing!
+
+
 
 <!--
 **KinzaaSheikh/KinzaaSheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
