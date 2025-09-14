@@ -9,46 +9,75 @@ I specialize in AI-driven and cloud-native solutions, focusing on Generative AI,
 
 With a strong grasp of modern AI Python programming, knowledge graphs, and custom AI model design, I’ve built AI-powered microservices and distributed systems deployed via platforms like Azure. My work aims to bridge the gap between the digital and physical worlds through agentic AI and humanoid robotics.
 
-👯 Let's Collaborate!
+## 👯 Let's Collaborate!
 I’m always looking to collaborate on open-source projects in the fields of Agentic AI, Blockchain, and Cloud Technologies.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Languages:
+### Languages:
+
 Python
+
 R
+
 MySQL
+
 HTML, CSS, & JavaScript
-Frameworks & Libraries:
+
+
+### Frameworks & Libraries:
 Next.js
+
 Nest.js
+
 React.js
+
 Vue.js
+
 LangChain
+
 LangGraph
+
 Neo4j
-DevOps & Cloud:
+
+
+### DevOps & Cloud:
+
 Docker
+
 Kubernetes
+
 Azure
+
 Terraform
-Tools & Concepts:
+
+### Tools & Concepts:
+
 Serverless Programming
+
 Containerization
+
 Distributed Systems
-🌱 Currently Learning
+
+
+## 🌱 Currently Learning
 
 I'm currently enhancing my skills with the PIAIC Bootcamp, focusing on:
 
 LangChain: Advanced AI agent development.
+
 Algorithms for LeetCode: Mastering data structures and algorithms for coding interviews.
+
 I’m also delving into the Fastai course by Jeremy Howard to deepen my knowledge in Deep Learning and Machine Learning.
 
 🚀 Passion Projects
 
 AI Agents: Creating intelligent systems that mimic human decision-making.
+
 Humanoid Robotics: Designing robots that interact seamlessly with real-world environments.
+
 Generative AI: Building and fine-tuning LLMs for real-world applications.
+
 🌐 Let's connect and build something amazing!
 
 
