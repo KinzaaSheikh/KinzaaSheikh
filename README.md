@@ -2,7 +2,7 @@
 
 🔭 Junior Software Engineer | AI Enthusiast | Cloud-Native Solutions Developer
 
-🌟 About Me
+## 🌟 About Me
 As a Junior Software Engineer, I bring over 4 years of hands-on experience in solving real-world problems and designing optimal solutions, coupled with my experience as a Full-Stack Web Developer, with expertise in Next.js and Nest.js, building robust, scalable applications for modern web experiences.
 
 I specialize in AI-driven and cloud-native solutions, focusing on Generative AI, multi-agent systems, and humanoid robotics. My expertise includes fine-tuning Large Language Models (LLMs) using technologies like OpenAI, PyTorch, and Meta LLaMA, alongside developing scalable AI-powered applications with Docker, Kubernetes, and Terraform.
