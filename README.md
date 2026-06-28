@@ -1,98 +1,24 @@
-👋 Hi there, I'm Kinza Sheikh!
+# 👋 Hi, I'm Kinza Sheikh
 
-🔭 Junior Software Engineer | AI Enthusiast | Cloud-Native Solutions Developer
+**Software Engineer • AI Research Enthusiast • Scientific Computing Learner**
 
-## 🌟 About Me
-As a Junior Software Engineer, I bring over 4 years of hands-on experience in solving real-world problems and designing optimal solutions, coupled with my experience as a Full-Stack Web Developer, with expertise in Next.js and Nest.js, building robust, scalable applications for modern web experiences.
+I'm a software engineer with a background in AI and cloud-native systems who is gradually transitioning toward research in artificial intelligence, machine learning, and embodied robotics.
 
-I specialize in AI-driven and cloud-native solutions, focusing on Generative AI, multi-agent systems, and humanoid robotics. My expertise includes fine-tuning Large Language Models (LLMs) using technologies like OpenAI, PyTorch, and Meta LLaMA, alongside developing scalable AI-powered applications with Docker, Kubernetes, and Terraform.
+My GitHub is becoming a digital research notebook—a place where I implement papers, reproduce experiments, explore mathematical foundations, and document ideas that spark my curiosity. I'm particularly interested in multi-agent systems, optimization, representation learning, and the intersection of AI with robotics and complex systems.
 
-With a strong grasp of modern AI Python programming, knowledge graphs, and custom AI model design, I’ve built AI-powered microservices and distributed systems deployed via platforms like Azure. My work aims to bridge the gap between the digital and physical worlds through agentic AI and humanoid robotics.
+Rather than chasing every new framework, I'm focused on building a deep understanding of the theory behind intelligent systems and turning that understanding into reproducible code.
 
-## 👯 Let's Collaborate!
-I’m always looking to collaborate on open-source projects in the fields of Agentic AI, Blockchain, and Cloud Technologies.
+### Current Focus
 
-## 🛠️ Tech Stack
+* 📚 Studying linear algebra, optimization, probability, and deep learning
+* 🤖 Implementing AI and robotics research papers
+* 🔬 Building small experimental projects inspired by academic literature
+* ✍️ Documenting what I learn through code and technical writing
 
-### Languages:
+### Interested In
 
-Python
+Artificial Intelligence • Machine Learning • Embodied AI • Multi-Agent Systems • Robotics • Optimization • Scientific Computing • Complex Systems
 
-R
+---
 
-MySQL
-
-HTML, CSS, & JavaScript
-
-
-### Frameworks & Libraries:
-Next.js
-
-Nest.js
-
-React.js
-
-Vue.js
-
-LangChain
-
-LangGraph
-
-Neo4j
-
-
-### DevOps & Cloud:
-
-Docker
-
-Kubernetes
-
-Azure
-
-Terraform
-
-### Tools & Concepts:
-
-Serverless Programming
-
-Containerization
-
-Distributed Systems
-
-
-## 🌱 Currently Learning
-
-I'm currently enhancing my skills with the PIAIC Bootcamp, focusing on:
-
-LangChain: Advanced AI agent development.
-
-Algorithms for LeetCode: Mastering data structures and algorithms for coding interviews.
-
-I’m also delving into the Fastai course by Jeremy Howard to deepen my knowledge in Deep Learning and Machine Learning.
-
-🚀 Passion Projects
-
-AI Agents: Creating intelligent systems that mimic human decision-making.
-
-Humanoid Robotics: Designing robots that interact seamlessly with real-world environments.
-
-Generative AI: Building and fine-tuning LLMs for real-world applications.
-
-🌐 Let's connect and build something amazing!
-
-
-
-<!--
-**KinzaaSheikh/KinzaaSheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me ...
-- 😄 Pronouns ...
-- ⚡ Fun fact ...
--->
+*"Stay curious. Read papers. Build experiments. Ask better questions."*
