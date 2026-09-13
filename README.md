@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kinza Sheikh
 
-**Software Engineer • Agentic AI Developer **
+**Software Engineer • Agentic AI Developer**
 
 I'm a software engineer with a background in AI and cloud-native systems who is gradually transitioning toward research in artificial intelligence, machine learning, and embodied robotics.
 
